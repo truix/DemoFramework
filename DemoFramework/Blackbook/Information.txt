@@ -1,0 +1,29 @@
+# *Mutiny Blackbook*
+
+
+
+## Concept
+
+Secure streaming of proprietary and critical data to mapped memory modules
+
+
+## Purpose
+
+ - Ensure modules mapped in memory can not function without authentication with Mutiny API, rendering memory dumps useless.
+ - Limit amount of information gained from static analysis of module
+   
+
+## Features
+
+ - Client-Server Authentication
+ - Dynamic Encryption
+ - Data Compression 
+ - Muti-Array Compatibility
+ - Binary Safe Transmission
+ - Muti-Version Compatibility
+
+## Implementation
+
+In Construction
+
+
